@@ -1,0 +1,35 @@
+{
+	"pattrstorage" : 	{
+		"name" : "SPAC",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"LemALFdrB::Piano_Pattr" : [ 127 ],
+					"LemALFdrB[1]::Dly1_Pattr" : [ 67 ],
+					"LemALFdrB[2]::Fback1_Pattr" : [ 65 ],
+					"LemALFdrB[5]::Rhodes_Pattr" : [ 127 ],
+					"LemALFdrB[4]::Dly2_Pattr" : [ 66 ],
+					"LemALFdrB[3]::Fback2_Pattr" : [ 65 ],
+					"LemALFdrB[6]::Verb2_Pattr" : [ 32 ],
+					"LemALFdrB[7]::Verb2_Pattr" : [ 23 ],
+					"LemALFdrB[8]::Mix1_Pattr" : [ 106 ],
+					"LemALFdrB[9]::Sat1_Pattr" : [ 97 ],
+					"LemALFdrB[10]::LoCut1_Pattr" : [ 64 ],
+					"LemALFdrB[11]::HiCut1_Pattr" : [ 66 ],
+					"LemALFdrB[15]::Mix2_Pattr" : [ 108 ],
+					"LemALFdrB[14]::Sat2_Pattr" : [ 97 ],
+					"LemALFdrB[13]::LoCut2_Pattr" : [ 67 ],
+					"LemALFdrB[12]::HiCut2_Pattr" : [ 70 ],
+					"LemALFdrB[16]::KON1_Pattr" : [ 0 ],
+					"LemALFdrB[17]::KON2_Pattr" : [ 0 ],
+					"LemALFdrB[18]::SBass_Pattr" : [ 127 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
