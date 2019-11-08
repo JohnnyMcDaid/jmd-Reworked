@@ -2,7 +2,7 @@
 	"name" : "JMDSPReworked",
 	"version" : 1,
 	"creationdate" : 3655991209,
-	"modificationdate" : 3655991254,
+	"modificationdate" : 3656033542,
 	"viewrect" : [ 25.0, 104.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,11 +14,6 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
-			}
-,
-			"LEMiO.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
 			}
 ,
 			"ToLemurData.maxpat" : 			{
@@ -42,16 +37,6 @@
 			}
 ,
 			"ToALData.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"LemALFdrB.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1
-			}
-,
-			"jm.VolLine.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -107,6 +92,29 @@
 			}
 ,
 			"BarBeatSectionCalculations.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"jm.CombinerOscLemurALMidi.maxpat" : 			{
+				"kind" : "patcher"
+			}
+,
+			"ALiOMidi.maxpat" : 			{
+				"kind" : "patcher"
+			}
+,
+			"LEMiO.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"LemALFdrB.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"jm.VolLine.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
